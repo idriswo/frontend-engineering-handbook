@@ -95,3 +95,11 @@ if (!result.success) {
 ## Summary
 
 Zod unifies runtime validation and static typing: one schema yields both the validator and the type. We validate all boundary data, infer types with `z.infer`, and choose `parse`/`safeParse` by intent — closing the gap TypeScript leaves at runtime.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 18-react-hook-form.md
+- 10-typescript.md
+- 14-rtk-query.md

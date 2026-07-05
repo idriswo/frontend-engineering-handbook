@@ -117,3 +117,11 @@ with lint/type-check/tests green and all states handled.
 ## Summary
 
 This final checklist is the Definition of Done for the whole handbook. Passing it — across architecture, quality, state, forms, styling, performance, errors, tooling, and AI — is what makes a feature truly complete. Run it every time, for every feature, human- or AI-written.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 02-ai-development-rules.md
+- 30-best-practices.md
+- 01-project-philosophy.md

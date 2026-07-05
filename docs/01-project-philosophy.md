@@ -98,3 +98,11 @@ const getActiveRoleNames = (user: User): string[] =>
 ## Summary
 
 The philosophy of this project is **clarity, consistency, and intentional simplicity**. We write code for the humans and AIs who read it next. Every other chapter is an application of these principles to a specific technology or problem.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 02-ai-development-rules.md
+- 03-clean-code.md
+- 06-project-architecture.md

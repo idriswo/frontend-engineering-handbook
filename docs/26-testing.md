@@ -93,3 +93,11 @@ test("shows validation error for invalid email", async () => {
 ## Summary
 
 We test with Vitest + React Testing Library, focusing on user-visible behavior and accessible queries. Tests mock at the boundary, cover all async states, survive refactors, and grow with every bug fix — providing real, durable confidence.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 25-error-handling.md
+- 09-react.md
+- 27-eslint.md

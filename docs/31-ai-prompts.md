@@ -90,3 +90,11 @@ Explain any non-obvious decision in a short comment.
 ## Summary
 
 Great AI output starts with a great prompt: context first, stack constrained, output shape specified, and standards (typing, accessibility, states) demanded. The reusable templates in `/prompts` operationalize this so AI reliably produces handbook-conformant code.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 02-ai-development-rules.md
+- 32-final-checklist.md
+- 30-best-practices.md

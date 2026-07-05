@@ -88,3 +88,11 @@ function Parent({ items }: { items: Item[] }) {
 ## Summary
 
 Performance is measured, not guessed. We code-split routes, memoize only proven hotspots with stable props, virtualize large lists, and minimize needless renders — keeping the app fast without premature complexity.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 09-react.md
+- 12-react-router.md
+- 25-error-handling.md

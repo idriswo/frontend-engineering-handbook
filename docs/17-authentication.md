@@ -98,3 +98,11 @@ export function ProtectedRoute({ children, requiredRole }: ProtectedRouteProps) 
 ## Summary
 
 Authentication is centralized around access/refresh JWTs, an auth slice, route guards, and RBAC. The client enforces UX-level checks while the server remains the security authority. Tokens are handled by interceptors, never by components.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 12-react-router.md
+- 16-axios.md
+- 13-redux-toolkit.md

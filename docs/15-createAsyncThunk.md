@@ -106,3 +106,11 @@ extraReducers: (builder) => {
 ## Summary
 
 `createAsyncThunk` is the exception, not the rule. Use it only for client-state async flows that RTK Query does not cover, always typed and with full lifecycle handling. For server data, RTK Query remains the default.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 13-redux-toolkit.md
+- 14-rtk-query.md
+- 16-axios.md

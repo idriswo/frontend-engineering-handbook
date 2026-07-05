@@ -117,3 +117,11 @@ function ItemList() {
 ## Summary
 
 Robust error handling means four states everywhere (loading/error/empty/success), error boundaries for render crashes, a global handler for logging, and toasts for feedback. Errors are never swallowed; users always see a clear, recoverable state.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 14-rtk-query.md
+- 24-performance.md
+- 26-testing.md

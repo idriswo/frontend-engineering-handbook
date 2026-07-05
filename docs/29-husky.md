@@ -90,3 +90,11 @@ npm run type-check && npm run test
 ## Summary
 
 Husky + lint-staged make quality gates automatic: lint and format on commit, type-check and test on push. Hooks keep `main` green by stopping problems at the earliest moment, with CI as the authoritative backstop.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 27-eslint.md
+- 28-prettier.md
+- 26-testing.md

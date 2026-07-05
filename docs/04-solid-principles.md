@@ -103,3 +103,11 @@ export function Dashboard() {
 ## Summary
 
 SOLID keeps a growing frontend maintainable by enforcing focused, decoupled, replaceable units. In React this means: data in hooks, UI in presentational components, extension via composition, minimal prop contracts, and injected dependencies.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 03-clean-code.md
+- 06-project-architecture.md
+- 09-react.md

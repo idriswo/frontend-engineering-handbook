@@ -104,3 +104,11 @@ const getActiveAdultMembers = (members: Member[]): Member[] =>
 ## Summary
 
 Clean code is optimized for the reader. Through meaningful names, small single-purpose functions, named constants, and shallow nesting, we make the codebase cheap to change — a continuous discipline applied in every commit and review.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 04-solid-principles.md
+- 05-dry-kiss-yagni.md
+- 08-naming-conventions.md

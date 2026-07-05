@@ -106,3 +106,11 @@ function ItemList({ items }: { items: Item[] }) {
 ## Summary
 
 We write modern **React 19**: functional components, correct hooks, composition, and derived state. Effects synchronize with external systems only. These patterns eliminate the most common re-render and state bugs and keep components reusable.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 10-typescript.md
+- 24-performance.md
+- 25-error-handling.md

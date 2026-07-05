@@ -95,3 +95,11 @@ export function Toast({ open, message }: { open: boolean; message: string }) {
 ## Summary
 
 Framer Motion adds purposeful, performant, accessible animation. We animate transform/opacity, handle exits with `AnimatePresence`, respect reduced-motion preferences, and keep motion meaningful rather than decorative.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 20-tailwind-css.md
+- 21-shadcn-ui.md
+- 24-performance.md

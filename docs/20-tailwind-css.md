@@ -94,3 +94,11 @@ function Badge({ active, className }: { active: boolean; className?: string }) {
 ## Summary
 
 Tailwind gives utility-first, token-driven styling co-located with markup. We compose classes with a `cn()` helper (`clsx` + `tailwind-merge`), rely on design tokens, and support responsive and dark-mode variants — keeping styling consistent and conflict-free.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 21-shadcn-ui.md
+- 22-framer-motion.md
+- 23-lucide-react.md

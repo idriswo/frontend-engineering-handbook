@@ -103,3 +103,11 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
 ## Summary
 
 The best practices glue the app together: typed env config, single-sourced constants, pure helpers, disciplined reuse, and centralized theming with dark/light support. These cross-cutting habits keep the whole codebase consistent, secure, and maintainable.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 05-dry-kiss-yagni.md
+- 11-vite.md
+- 17-authentication.md

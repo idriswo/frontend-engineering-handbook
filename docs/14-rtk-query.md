@@ -109,3 +109,11 @@ function Users() {
 ## Summary
 
 RTK Query is the server-state layer: declarative endpoints, automatic caching and deduplication, and tag-based invalidation. Components consume generated typed hooks and always handle loading, error, and empty states.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 13-redux-toolkit.md
+- 16-axios.md
+- 25-error-handling.md

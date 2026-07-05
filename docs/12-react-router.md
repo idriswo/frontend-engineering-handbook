@@ -107,3 +107,11 @@ export const router = createBrowserRouter([
 ## Summary
 
 Routing is centralized, layout-driven, lazy-loaded, and guarded. A single `ROUTES` map is the source of path truth, layouts eliminate chrome duplication, and lazy routes keep the initial bundle small.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 06-project-architecture.md
+- 17-authentication.md
+- 24-performance.md

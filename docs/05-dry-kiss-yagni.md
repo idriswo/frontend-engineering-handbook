@@ -90,3 +90,11 @@ export const emailSchema = z.string().email("Invalid email");
 ## Summary
 
 DRY, KISS, and YAGNI balance reuse against simplicity. Unify real duplication, keep solutions proportional, and resist building for a future that may never come. When in doubt, prefer a little duplication over the wrong abstraction.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 03-clean-code.md
+- 04-solid-principles.md
+- 30-best-practices.md

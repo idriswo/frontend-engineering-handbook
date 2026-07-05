@@ -99,3 +99,11 @@ function isSuccess<T>(
 ## Summary
 
 TypeScript in strict mode is the contract layer of the app. We model the domain precisely, avoid `any` and `as`, use discriminated unions and guards, and single-source domain types — turning whole classes of runtime bugs into compile-time errors.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 09-react.md
+- 14-rtk-query.md
+- 19-zod.md

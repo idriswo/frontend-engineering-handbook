@@ -93,3 +93,11 @@ function add(a: number, b: number): number {
 ## Summary
 
 Prettier makes formatting automatic and uniform. One shared config, format-on-save, and pre-commit enforcement eliminate style debates and keep diffs meaningful — with ESLint owning correctness and Prettier owning style.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 27-eslint.md
+- 29-husky.md
+- 08-naming-conventions.md

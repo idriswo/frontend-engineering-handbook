@@ -88,3 +88,11 @@ type ButtonProps = {
 ## Summary
 
 Naming conventions make code self-describing: casing signals the symbol kind, prefixes signal role, and full words signal intent. Consistency here pays off on every read, search, and AI generation.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 03-clean-code.md
+- 07-folder-structure.md
+- 10-typescript.md

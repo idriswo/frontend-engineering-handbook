@@ -102,3 +102,11 @@ const apiUrl = import.meta.env.VITE_API_URL;
 ## Summary
 
 Vite gives fast dev and optimized builds. We expose only `VITE_` public config, keep secrets server-side, use the `@` alias for clean imports, and type env variables so misconfiguration fails at compile time.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 07-folder-structure.md
+- 24-performance.md
+- 30-best-practices.md

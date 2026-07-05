@@ -96,3 +96,11 @@ src/
 ## Summary
 
 The architecture is **feature-based, layered, and unidirectional**. Features are self-contained, UI is separated from state and infrastructure, and shared code is promoted only on real reuse. This keeps a large app parallelizable, testable, and cheap to change.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 07-folder-structure.md
+- 13-redux-toolkit.md
+- 14-rtk-query.md

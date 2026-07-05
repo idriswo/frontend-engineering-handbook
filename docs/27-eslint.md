@@ -95,3 +95,11 @@ useEffect(() => { initAnalytics(); }, []);
 ## Summary
 
 ESLint makes our standards automatic: type-aware correctness and consistency rules gate every commit and CI run. We fix causes, never blanket-disable rules, and treat a clean lint pass as a hard requirement.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 28-prettier.md
+- 29-husky.md
+- 10-typescript.md

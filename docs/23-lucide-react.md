@@ -95,3 +95,11 @@ function DeleteButton({ onDelete }: { onDelete: () => void }) {
 ## Summary
 
 Lucide React provides consistent, tree-shakable icons. We import by name, size via tokens, let icons inherit `currentColor`, hide decorative icons from assistive tech, and label icon-only controls — keeping icons small, uniform, and accessible.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 20-tailwind-css.md
+- 21-shadcn-ui.md
+- 22-framer-motion.md

@@ -109,3 +109,11 @@ export function LoginForm({ onLogin }: { onLogin: (v: LoginValues) => Promise<vo
 ## Summary
 
 React Hook Form is the standard for all forms: performant, uncontrolled inputs, Zod-based validation, schema-inferred types, and accessible error handling. Forms are never built with raw `useState`.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 19-zod.md
+- 21-shadcn-ui.md
+- 25-error-handling.md

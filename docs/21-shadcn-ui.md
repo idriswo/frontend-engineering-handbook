@@ -105,3 +105,11 @@ export function ConfirmDelete({ onConfirm }: { onConfirm: () => void }) {
 ## Summary
 
 shadcn/ui gives us owned, accessible, Tailwind-native components built on Radix. We keep them in `shared/components/ui/`, extend them with `cva` variants, preserve their accessibility, and compose them into feature components.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 20-tailwind-css.md
+- 18-react-hook-form.md
+- 22-framer-motion.md

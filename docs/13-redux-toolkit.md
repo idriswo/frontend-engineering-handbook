@@ -113,3 +113,11 @@ export const useAppSelector: TypedUseSelectorHook<RootState> = useSelector;
 ## Summary
 
 Redux Toolkit manages global *client* state only. Slices with typed payloads, typed hooks, and memoized selectors keep global state safe and minimal — while server state stays in RTK Query.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 09-react.md
+- 14-rtk-query.md
+- 15-createAsyncThunk.md

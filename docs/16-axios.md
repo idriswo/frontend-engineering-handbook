@@ -102,3 +102,11 @@ api.interceptors.response.use(
 ## Summary
 
 Axios is the centralized transport layer: one instance, request/response interceptors for auth and error normalization, and integration beneath RTK Query. Components never touch Axios directly — cross-cutting concerns live in one place.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 14-rtk-query.md
+- 17-authentication.md
+- 25-error-handling.md

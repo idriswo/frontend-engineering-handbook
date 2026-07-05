@@ -100,3 +100,11 @@ src/
 ## Summary
 
 A canonical, fractal folder structure — features, shared, app — makes the codebase predictable and navigable. Every feature mirrors the same layout and exposes a public `index.ts`, eliminating the "where does this go?" question.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 06-project-architecture.md
+- 08-naming-conventions.md
+- 30-best-practices.md

@@ -104,3 +104,11 @@ export function UserList() {
 ## Summary
 
 AI is a full contributor bound by the same standards as human engineers. Approved stack only, full typing, complete state handling, and strict adherence to this handbook ensure AI-generated code is consistent, safe, and production-ready on the first pass.
+
+## 🔗 Related Chapters
+
+Read next:
+
+- 01-project-philosophy.md
+- 31-ai-prompts.md
+- 32-final-checklist.md
