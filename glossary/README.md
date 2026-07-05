@@ -17,3 +17,14 @@ A concise reference of the core frontend engineering terms used throughout this 
 | [Hoisting](terms.md#hoisting) | JS moving declarations to the top of their scope |
 
 See the full definitions in [terms.md](terms.md).
+
+## Topic Glossaries
+
+| Topic | Covers |
+| --- | --- |
+| [React](react.md) | Components, props, state, hooks, reconciliation |
+| [TypeScript](typescript.md) | Types, generics, narrowing, utility types |
+| [JavaScript](javascript.md) | Closures, event loop, promises, `this` |
+| [Architecture](architecture.md) | Feature-based design, coupling, SOLID, DRY |
+| [Performance](performance.md) | Memoization, code splitting, Core Web Vitals |
+| [Security](security.md) | Auth, JWT, XSS, CSRF, CORS, CSP |
